@@ -24,8 +24,7 @@ npm install
 npm run serve
 ```
 
-After this process the `localhost: 8080 page will automatically open in your browser or access <a href="http://127.0.0.1:8080" target="_blank">http://127.0.0.1:8080/a>
-
+After this process the `localhost: 8080` page will automatically open in your browser or access <a href="http://127.0.0.1:8080" target="_blank">http://127.0.0.1:8080</a>
 
 ## :heart: Feedback
 
